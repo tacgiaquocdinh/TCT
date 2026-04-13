@@ -5,6 +5,13 @@
     "coverUrl": "",
     "lockLevel": 1,
     "description": "",
-    "chapterCount": 0,
-    "chapters": []
+    "chapterCount": 1,
+    "chapters": [
+        {
+            "title": "58#",
+            "url": "https://raw.githubusercontent.com/tacgiaquocdinh/TCT/main/ab_b95f4/ch_1.txt",
+            "fileName": "ch_1.txt",
+            "lockLevel": 1
+        }
+    ]
 }
