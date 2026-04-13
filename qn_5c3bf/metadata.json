@@ -1,11 +1,17 @@
 {
     "id": "qn_5c3bf",
-    "title": "qn",
-    "author": "qn\n",
-    "coverUrl": "",
-    "lockLevel": 0,
-    "description": "",
+    "title": "Hello",
+    "author": "Quốc Đình",
+    "translator": "Umilang",
+    "uploader": "admin",
+    "coverUrl": "gg.com",
+    "sourceUrl": "gg.com",
+    "lockLevel": 2,
+    "description": "hãy vô đây.",
     "chapterCount": 1,
+    "status": "Đang ra",
+    "timestamp": 1776101312514,
+    "genres": [],
     "chapters": [
         {
             "title": "Chương 1",
