@@ -2,22 +2,22 @@
     "id": "qn_5c3bf",
     "title": "Hello",
     "author": "Quốc Đình",
-    "translator": "Umilang",
-    "uploader": "admin",
     "coverUrl": "gg.com",
-    "sourceUrl": "gg.com",
     "lockLevel": 2,
     "description": "hãy vô đây.",
     "chapterCount": 1,
-    "status": "Đang ra",
-    "timestamp": 1776118872005,
-    "genres": [],
+    "lastUpdate": 1776121789990,
+    "timestamp": 1776121789990,
     "chapters": [
         {
             "title": "Chương 1",
             "url": "https://raw.githubusercontent.com/tacgiaquocdinh/TCT/main/qn_5c3bf/ch_1.txt",
             "fileName": "ch_1.txt",
-            "lockLevel": 1
+            "lockLevel": 1,
+            "uploader": "Admin",
+            "createTime": 0,
+            "updateTime": 1776121789990,
+            "lastEditor": "Admin"
         }
     ]
 }
