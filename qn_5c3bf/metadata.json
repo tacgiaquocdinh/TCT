@@ -11,7 +11,19 @@
     "lockLevel": 2,
     "description": "hãy vô đây.",
     "chapterCount": 1,
-    "status": "Đang ra",
-    "timestamp": 1776133121300,
-    "genres": []
+    "lastUpdate": 1776137415200,
+    "timestamp": 1776137415200,
+    "genres": [],
+    "chapters": [
+        {
+            "title": "Chương 1",
+            "url": "qn_5c3bf/ch_1.txt",
+            "fileName": "ch_1.txt",
+            "lockLevel": 0,
+            "uploader": "Admin",
+            "createTime": 1776137415200,
+            "updateTime": 1776137415200,
+            "lastEditor": "Admin"
+        }
+    ]
 }
