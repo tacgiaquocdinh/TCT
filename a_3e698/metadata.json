@@ -12,8 +12,10 @@
     "description": "",
     "chapterCount": 0,
     "status": "Đang ra",
-    "timestamp": 1776281624744,
+    "timestamp": 1776281698664,
     "featured": true,
-    "genres": [],
+    "genres": [
+        "28222"
+    ],
     "chapters": []
 }
