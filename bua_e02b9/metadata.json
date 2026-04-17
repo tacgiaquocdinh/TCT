@@ -6,13 +6,26 @@
     "uploader": "",
     "coverUrl": "",
     "sourceUrl": "",
-    "likes": 0,
+    "likes": 6,
+    "views": 2,
     "commentsUrl": "bua_e02b9/comments.json",
     "lockLevel": 0,
-    "description": "",
-    "chapterCount": 0,
+    "chapterCount": 1,
+    "lastUpdate": 1776408469372,
+    "timestamp": 1776408469373,
     "status": "Đang ra",
-    "timestamp": 1776280904416,
+    "type": null,
     "genres": [],
-    "chapters": []
+    "chapters": [
+        {
+            "title": "Chương 1",
+            "url": "bua_e02b9/ch_1.txt",
+            "fileName": "ch_1.txt",
+            "lockLevel": 0,
+            "uploader": "Admin",
+            "createTime": 1776408469372,
+            "updateTime": 1776408469372,
+            "lastEditor": "Admin"
+        }
+    ]
 }
