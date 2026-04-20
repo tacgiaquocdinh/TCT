@@ -6,16 +6,28 @@
     "uploader": "",
     "coverUrl": "",
     "sourceUrl": "",
-    "likes": 0,
+    "likes": 2,
+    "views": 3,
     "commentsUrl": "a_3e698/comments.json",
     "lockLevel": 2,
-    "description": "",
-    "chapterCount": 0,
+    "chapterCount": 1,
+    "lastUpdate": 1776712268064,
+    "timestamp": 1776712268064,
     "status": "Đang ra",
-    "timestamp": 1776293914243,
-    "featured": true,
+    "type": null,
     "genres": [
         "28222"
     ],
-    "chapters": []
+    "chapters": [
+        {
+            "title": "Chương 1",
+            "url": "a_3e698/ch_1.txt",
+            "fileName": "ch_1.txt",
+            "lockLevel": 0,
+            "uploader": "Admin",
+            "createTime": 1776712268064,
+            "updateTime": 1776712268064,
+            "lastEditor": "Admin"
+        }
+    ]
 }
