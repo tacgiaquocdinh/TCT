@@ -7,12 +7,12 @@
     "coverUrl": "",
     "sourceUrl": "",
     "likes": 2,
-    "views": 3,
+    "views": 9,
     "commentsUrl": "a_3e698/comments.json",
     "lockLevel": 2,
-    "chapterCount": 1,
-    "lastUpdate": 1776712268064,
-    "timestamp": 1776712268064,
+    "chapterCount": 2,
+    "lastUpdate": 1776891170927,
+    "timestamp": 1776891170927,
     "status": "Đang ra",
     "type": null,
     "genres": [
@@ -27,6 +27,16 @@
             "uploader": "Admin",
             "createTime": 1776712268064,
             "updateTime": 1776712268064,
+            "lastEditor": "Admin"
+        },
+        {
+            "title": "Chương 2",
+            "url": "a_3e698/ch_2.txt",
+            "fileName": "ch_2.txt",
+            "lockLevel": 0,
+            "uploader": "Admin",
+            "createTime": 1776891170927,
+            "updateTime": 1776891170927,
             "lastEditor": "Admin"
         }
     ]
